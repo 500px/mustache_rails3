@@ -1,3 +1,14 @@
+# WARNING
+
+I have pursued this and ended up on Node.js. Looking back, I am realizing Rails is starting to suck a little more each day.
+You can't compete with MVC that works front-end and back-end. To try with Ruby is just an exercise in futility.
+If you are interested in simple templating that works anywhere, check out these other projects of mine:
+
+* [CoffeeTemplates](https://github.com/mikesmullin/coffee-templates)
+* [CoffeeShop](https://github.com/mikesmullin/coffee-shop)
+
+For those determined to carry out their quest with RoR, read on...
+
 # Do you ...
 * **Want to use .Mustache view templates in Rails 3?**
 * **Want all your Mustache templates to be compatible with the Rails Asset Pipeline?**
